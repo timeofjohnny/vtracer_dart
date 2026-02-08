@@ -1,0 +1,11 @@
+name: vtracer_dart
+description: Convert raster images (PNG, JPEG) to SVG vector graphics. Pure Dart port of vtracer with no native dependencies.
+version: 0.1.0
+repository: https://github.com/timeofjohnny/vtracer_dart
+
+environment:
+  sdk: ^3.2.0
+
+dev_dependencies:
+  lints: ^5.0.0
+  image: ^4.0.0
